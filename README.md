@@ -9,7 +9,7 @@ A proper website is coming soon!
 
 ---
 
-Hola! Mi nombre es Antonio Chavez. Soy un escritor peruano interesado en literatura en ingles y español. Mis influencias principales son Roberto Bolaño, David Foster Wallace, 
+¡Hola! Mi nombre es Antonio Chavez. Soy un escritor peruano interesado en literatura en ingles y español. Mis influencias principales son Roberto Bolaño, David Foster Wallace, 
 Mario Vargas Llosa, and Karl Ove Knausgaard. 
 
 Dos escritores que indirectamente me motivaron a escribir e influyeron en mi estilo son [Jose Carlos Aguero](https://www.dukeupress.edu/the-surrendered) y [Jaime Bayly](https://en.wikipedia.org/wiki/Jaime_Bayly#Early_life)..
